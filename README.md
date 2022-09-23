@@ -9,4 +9,4 @@ To Access this,
 4. create a database called db_login
 5. import the database file.
 6. Transfer the Files downloaded into "htdocs" folder of xampp and paste it.
-7. search http://localhost/signup/signup.html
+7. search http://localhost/signup/signup.html and HERE WE GO!
